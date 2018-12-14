@@ -1,2 +1,2 @@
-# logos
-logos which i had created using adobe xd
+# Adobe XD
+Designs which i had created using adobe xd
